@@ -1,2 +1,2 @@
-# PROJECT_ERISPE
+# ErispeClark-rock-paper-scissors
 Rock,Paper,Scissor Game
